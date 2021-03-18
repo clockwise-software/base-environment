@@ -1,0 +1,12 @@
+image:
+  file: .gitpod.Dockerfile
+
+ports:
+    - port: 7200
+      onOpen: open-preview
+      visibility: public
+tasks:
+    - init: >
+        python3 -m pip install -r src/requirements.txt
+      command: >
+        python3 src/SimpleServer.py
