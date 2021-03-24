@@ -1,7 +1,6 @@
-## CLOCKWISE-BOOTCAMP SimpleServe.py 
+## CLOCKWISE-BOOTCAMP SimpleServer.py 
 ## Based on Server from Dr. Ian Cooper @ Cardiff
 ## Updated by Dr. Mike Borowczak @ UWyo March 2021
-## 
 
 import os
 from flask import Flask, redirect, request, render_template
@@ -62,7 +61,7 @@ def surnameSearch():
 
 
 
-# THIS IS VERY BAD
+# The name says it...
 @app.route("/Employee/VulnerableSearch", methods = ['GET','POST'])
 def surnameInjectionSearch():
 	if request.method =='GET':
@@ -71,11 +70,13 @@ def surnameInjectionSearch():
 		lastName = request.form.get('lastName', default="Error") #rem: args for get form for post
 		conn = sqlite3.connect(DATABASE)
 		cur = conn.cursor()
+		
 		# VERY BAD VERY BAD VERY BAD VERY BAD VERY BAD VERY BAD VERY BAD VERY BAD VERY BAD VERY BAD
 		query = "SELECT * FROM EmployeeList WHERE lastname= '%s' " % (lastName,)
 		print (query)
 		cur.execute(query)
 		# VERY BAD VERY BAD VERY BAD VERY BAD VERY BAD VERY BAD VERY BAD VERY BAD VERY BAD VERY BAD
+		
 		data = cur.fetchall()
 		print (data)
 		print (lastName)
