@@ -1,3 +1,8 @@
+## CLOCKWISE-BOOTCAMP SimpleServe.py 
+## Based on Server from Dr. Ian Cooper @ Cardiff
+## Updated by Dr. Mike Borowczak @ UWyo March 2021
+## 
+
 import os
 from flask import Flask, redirect, request, render_template
 import sqlite3
@@ -15,7 +20,7 @@ def studentAddDetails():
 	if request.method =='GET':
 		return render_template('EmployeeData.html')
 	if request.method =='POST':
-		firstName = request.form.get('firstName', default="Error")#rem: args for get form for post
+		firstName = request.form.get('firstName', default="Error") 
 		lastName = request.form.get('lastName', default="Error")
 		businessunit = request.form.get('bu', default="Error")
 		state = request.form.get('state', default="Error")
