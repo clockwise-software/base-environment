@@ -12,6 +12,8 @@ This bootcamp is a collaborative pilot initiative between the Wyoming Innovation
 The final project will be the development of a system for identifying employees based upon their project areas. At the end, the final product will be a product that allows for matching people with specific skills to matching proposal requirements.
 
 ### Background
+![Trihydro](https://www.trihydro.com/images/default-source/layout-images/logo.png)
+
 Trihydro Corporation (Trihydro) is an engineering and environmental consulting firm based out of Laramie, Wyoming. Trihydro has nearly 475 employees across the United States. We offer a wide range of services including air quality and process management; engineering and surveying; environmental; health and safety; information technology; and water resources.
 
 ### Problem
@@ -47,8 +49,8 @@ Project wide configuration parameters are controlled by the `.gipod.yml`, `.gitp
 
 ### Resources
 
- * [Flask Tutorial (without DB)] (https://flask.palletsprojects.com/en/1.1.x/tutorial/)
- * [Flask Tutorial Collection] (https://realpython.com/tutorials/flask/)
+ * [Flask Tutorial (without DB)](https://flask.palletsprojects.com/en/1.1.x/tutorial/)
+ * [Flask Tutorial Collection](https://realpython.com/tutorials/flask/)
  * [Example Projects](https://www.fullstackpython.com/flask.html)
 
 
@@ -91,5 +93,14 @@ Project wide configuration parameters are controlled by the `.gipod.yml`, `.gitp
    * [Western Wyoming Community College](http://www.westernwyoming.edu/) 
 
 and [Cardiff University](https://www.cardiff.ac.uk/).
+
+<img src="https://upload.wikimedia.org/wikipedia/commons/1/18/University_of_Wyoming_logo.svg" alt="Uwyo" title="Uwyo" width="150" /> <img src="https://upload.wikimedia.org/wikipedia/commons/e/ee/Casper_College_wordmark.svg" alt="Casper College" title="Casper College" width="150" /> <img src="https://www.cwc.edu/media/marketing-files/cwcedu/style-assets/icons/cwc-logo-blue@2x.png" alt="CWC" title="CWC" width="150" /> <img src="https://uqwf03nohzf4b5l9s1r9ke214de-wpengine.netdna-ssl.com/wp-content/uploads/2020/10/EWC_LogoBlackB.png" alt="EWC" title="EWC" width="150" />
+
+<img src="https://www.sheridan.edu/wp-content/uploads/2015/12/SC-NWCCD-GC_large.png" alt="Sheridan/Gillette" title="Sheridan/Gillette" width="300"/> <img src="https://upload.wikimedia.org/wikipedia/en/3/3c/Laramie_County_CC_logo.jpg" alt="LCCC" title="LCCC" width="150"/>
+
+<img src="http://www.uwyo.edu/acadaffairs/degree-plans/_files/images/comm-colleges/nwc_logo_605x206.gif" alt="NWC" title="NWC" width="150" /> <img src="https://www.mtsacc.org/colleges/uploads/2017/10/Western-Wyoming-Community-College-300x142.jpg" alt="WWCC" title="WWCC" width="150"/>
+
+<img src="https://upload.wikimedia.org/wikipedia/commons/3/35/Cardiff-university-vector-logo.svg" alt="Cardiff" title="Cardiff" width="150"/>
+
 
 Infrastructure and neer-peer support is provided by the [Cybersecurity Education and Research Center](http://www.uwyo.edu/CEDAR).
