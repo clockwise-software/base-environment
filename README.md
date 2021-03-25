@@ -31,7 +31,6 @@ Basic details surrounding GitPod can be found here (in their 10 minutes of prime
 The environment features several extensions including:
    * SQLITE database viewer / browser
    * Python Linting, Debugging
-   * Tabnine Autocomplete AI 
 
 Project wide configuration parameters are controlled by the `.gipod.yml`, `.gitpod.Dockerfile`, and `requirements.txt` file. It is not necessary or recommended that you change any of these.
 
