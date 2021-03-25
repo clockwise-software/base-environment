@@ -10,3 +10,9 @@ tasks:
         python3 -m pip install -r src/requirements.txt
       command: >
         python3 src/SimpleServer.py
+
+vscode:
+  extensions:
+    - ms-python.python@2020.10.332292344:5ctthQ25Qni5/aAuOIUTYQ==
+    - tabnine.tabnine-vscode@3.2.9:sRqZINJ3TxtcnOlAkVgG5w==
+    - alexcvzz.vscode-sqlite@0.10.1:m5L+iEIP/9wJYy5L2XCVlQ==
