@@ -60,7 +60,7 @@ Project wide configuration parameters are controlled by the `.gipod.yml`, `.gitp
 1. Define a team contract (template provided ) 
    * Establish expectations, goals, and committment both as a group and as individuals.
 1. Create a branch of your team's project called `yourlastname-gitpod-exploration`
-1. Familiariaze yourself with the gitpod environment, in your open branch, launch gitpod (use Chrome or Firefox for ease of use; [browser extensions](https://www.gitpod.io/docs/browser-extension/))
+1. Familiarize yourself with the gitpod environment, in your open branch, launch gitpod (use Chrome or Firefox for ease of use; [browser extensions](https://www.gitpod.io/docs/browser-extension/))
 1. Look over the Industry need/challenge and brainstorm in your group what you can do and how you can extend this base environment
 1. Sketch out a skelton set of ideas and questions for the industry partner (Trihydro) 
 1. Engage with and gather requirments/details fromthe industry partner (Trihydro) 
