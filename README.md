@@ -86,7 +86,7 @@ Project wide configuration parameters are controlled by the `.gipod.yml`, `.gitp
    * [Casper College](http://www.caspercollege.edu/), 
    * [Central Wyoming College](http://cwc.edu/), 
    * [Eastern Wyoming College](https://ewc.wy.edu/), 
-   * [Gillette College](http://www.sheridan.edu/about/gillette) / [Sheridan College](http://www.sheridan.edu/), 
+   * [Sheridan College](http://www.sheridan.edu/) / [Gillette College](http://www.sheridan.edu/about/gillette), 
    * [Laramie County Community College](http://www.lccc.wy.edu/), 
    * [Northwest College](http://www.nwc.edu/), 
    * [Western Wyoming Community College](http://www.westernwyoming.edu/) 
