@@ -12,7 +12,7 @@ This bootcamp is a collaborative pilot initiative between the Wyoming Innovation
 The final project will be the development of a system for identifying employees based upon their project areas. At the end, the final product will be a product that allows for matching people with specific skills to matching proposal requirements.
 
 ### Background
-[![Trihydro](https://www.trihydro.com/images/default-source/layout-images/logo.png)]((https://www.trihydro.com)
+[![Trihydro](https://www.trihydro.com/images/default-source/layout-images/logo.png)](https://www.trihydro.com)
 
 Trihydro Corporation (Trihydro) is an engineering and environmental consulting firm based out of Laramie, Wyoming. Trihydro has nearly 475 employees across the United States. We offer a wide range of services including air quality and process management; engineering and surveying; environmental; health and safety; information technology; and water resources.
 
