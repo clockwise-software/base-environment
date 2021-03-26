@@ -4,7 +4,7 @@ This is the base environment for the CLOCKWISE 2021 Software Engineering Bootcam
 
 ## About CLOCKWISE SE Bootcamp
 
-This bootcamp is a collaborative pilot initiative between the Wyoming Innovation Network of partners and Cardiff University. WIN "calls for closer collaboration between the University of Wyoming and the state’s community colleges and an emphasis on developing innovative solutions that will support and enhance Wyoming’s economy and workforce." [1](https://governor.wyo.gov/media/news-releases/2021-news-releases/governor-unveils-higher-education-initiative-with-new-approach) 
+This bootcamp is a collaborative pilot         initiative between the Wyoming Innovation Network of partners and Cardiff University. WIN "calls for closer collaboration between the University of Wyoming and the state’s community colleges and an emphasis on developing innovative solutions that will support and enhance Wyoming’s economy and workforce." [1](https://governor.wyo.gov/media/news-releases/2021-news-releases/governor-unveils-higher-education-initiative-with-new-approach) 
 
 
 ## Industry Challenge
